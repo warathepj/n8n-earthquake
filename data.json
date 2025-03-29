@@ -1,0 +1,132 @@
+[
+  {
+    "location": "19 km SW of Nay Pyi Taw, Burma (Myanmar)",
+    "magnitude": 5.1,
+    "time": "3/29/2025, 4:20:48 PM",
+    "coordinates": [
+      96.0102,
+      19.6154,
+      10
+    ]
+  },
+  {
+    "location": "Mariana Islands region",
+    "magnitude": 5.2,
+    "time": "3/29/2025, 9:11:07 AM",
+    "coordinates": [
+      147.8001,
+      12.5721,
+      10
+    ]
+  },
+  {
+    "location": "central Mid-Atlantic Ridge",
+    "magnitude": 6.6,
+    "time": "3/29/2025, 12:17:26 AM",
+    "coordinates": [
+      -29.7625,
+      0.7178,
+      6.416
+    ]
+  },
+  {
+    "location": "22 km WSW of Merke, Kazakhstan",
+    "magnitude": 5,
+    "time": "3/28/2025, 5:56:42 PM",
+    "coordinates": [
+      72.9521,
+      42.7673,
+      10
+    ]
+  },
+  {
+    "location": "71 km SW of Modisi, Indonesia",
+    "magnitude": 4.5,
+    "time": "3/29/2025, 8:36:55 AM",
+    "coordinates": [
+      123.975,
+      -0.0012,
+      100.25
+    ]
+  },
+  {
+    "location": "268 km SE of Alo, Wallis and Futuna",
+    "magnitude": 4.7,
+    "time": "3/29/2025, 12:24:20 AM",
+    "coordinates": [
+      -176.3659,
+      -16.0525,
+      373.74
+    ]
+  },
+  {
+    "location": "22 km S of Yamethin, Burma (Myanmar)",
+    "magnitude": 4.5,
+    "time": "3/28/2025, 11:46:21 PM",
+    "coordinates": [
+      96.137,
+      20.2248,
+      10
+    ]
+  },
+  {
+    "location": "19 km NNW of Atka, Alaska",
+    "magnitude": 4.9,
+    "time": "3/28/2025, 11:08:49 PM",
+    "coordinates": [
+      -174.2948,
+      52.3653,
+      120.061
+    ]
+  },
+  {
+    "location": "145 km N of Manatutu, Timor Leste",
+    "magnitude": 4.5,
+    "time": "3/28/2025, 7:56:10 PM",
+    "coordinates": [
+      126.0091,
+      -7.1972,
+      491.723
+    ]
+  },
+  {
+    "location": "54 km ENE of Pototano, Indonesia",
+    "magnitude": 4.7,
+    "time": "3/28/2025, 6:59:01 PM",
+    "coordinates": [
+      117.9252,
+      -8.19,
+      22.397
+    ]
+  },
+  {
+    "location": "northwest of the Kuril Islands",
+    "magnitude": 4.9,
+    "time": "3/28/2025, 6:57:10 PM",
+    "coordinates": [
+      147.3022,
+      47.9458,
+      417.837
+    ]
+  },
+  {
+    "location": "Burma",
+    "magnitude": 4.5,
+    "time": "3/28/2025, 6:16:50 PM",
+    "coordinates": [
+      95.7184,
+      22.1908,
+      10
+    ]
+  },
+  {
+    "location": "northern East Pacific Rise",
+    "magnitude": 4.8,
+    "time": "3/28/2025, 5:35:10 PM",
+    "coordinates": [
+      -103.7767,
+      10.0431,
+      10
+    ]
+  }
+]
