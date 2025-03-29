@@ -2,6 +2,26 @@
 const usgsUrl = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson';
 const fs = require('fs');
 
+// Function to send data to webhook
+async function sendToWebhook(data) {
+  try {
+    const response = await fetch('http://localhost:5678/webhook-test/9265066c-5049-4206-880c-4db31939735f', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
+    });
+
+    if (!response.ok) {
+      throw new Error(`Webhook responded with status: ${response.status}`);
+    }
+    console.log('Data successfully sent to webhook');
+  } catch (error) {
+    console.error('Error sending data to webhook:', error);
+  }
+}
+
 // Function to fetch and display earthquake data
 async function fetchEarthquakeData() {
   try {
@@ -57,6 +77,10 @@ async function fetchEarthquakeData() {
     newEarthquakes.forEach((quake) => {
       console.log(`Location: ${quake.location}, Magnitude: ${quake.magnitude}, Time: ${quake.time}, Coordinates: [${quake.coordinates}]`);
     });
+
+    // Send new earthquakes to webhook
+    await sendToWebhook(newEarthquakes);
+
   } catch (error) {
     console.error('Error fetching earthquake data:', error);
   }

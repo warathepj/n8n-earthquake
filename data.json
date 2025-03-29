@@ -128,5 +128,265 @@
       10.0431,
       10
     ]
+  },
+  {
+    "location": "220 km E of Levuka, Fiji",
+    "magnitude": 4.2,
+    "time": "3/29/2025, 4:52:50 PM",
+    "coordinates": [
+      -178.6062,
+      -18.1832,
+      636.955
+    ]
+  },
+  {
+    "location": "1 km SSE of Indios, Puerto Rico",
+    "magnitude": 3.02,
+    "time": "3/29/2025, 4:45:58 PM",
+    "coordinates": [
+      -66.812,
+      17.9815,
+      13.08
+    ]
+  },
+  {
+    "location": "20 km SSE of Fern Forest, Hawaii",
+    "magnitude": 2.95,
+    "time": "3/29/2025, 4:45:42 PM",
+    "coordinates": [
+      -155.040496826172,
+      19.3016662597656,
+      41.6699981689453
+    ]
+  },
+  {
+    "location": "140 km W of Diego de Almagro, Chile",
+    "magnitude": 4.3,
+    "time": "3/29/2025, 3:01:19 PM",
+    "coordinates": [
+      -71.4494,
+      -26.445,
+      39.913
+    ]
+  },
+  {
+    "location": "134 km WNW of Constitución, Chile",
+    "magnitude": 4.1,
+    "time": "3/29/2025, 2:20:23 PM",
+    "coordinates": [
+      -73.8212,
+      -34.968,
+      10
+    ]
+  },
+  {
+    "location": "136 km NNE of Cruz Bay, U.S. Virgin Islands",
+    "magnitude": 3.64,
+    "time": "3/29/2025, 2:04:38 PM",
+    "coordinates": [
+      -64.4315,
+      19.5161,
+      11
+    ]
+  },
+  {
+    "location": "87 km WNW of Big Lagoon, California",
+    "magnitude": 2.8,
+    "time": "3/29/2025, 12:24:48 PM",
+    "coordinates": [
+      -125.1406,
+      41.3547,
+      10
+    ]
+  },
+  {
+    "location": "27 km SSW of Blowing Point Village, Anguilla",
+    "magnitude": 4.4,
+    "time": "3/29/2025, 11:53:59 AM",
+    "coordinates": [
+      -63.1482,
+      17.9374,
+      98.021
+    ]
+  },
+  {
+    "location": "33 km SSE of Bunkerville, Nevada",
+    "magnitude": 3.6,
+    "time": "3/29/2025, 11:46:47 AM",
+    "coordinates": [
+      -114.0002,
+      36.492,
+      5
+    ]
+  },
+  {
+    "location": "13 km NNE of Wells, Texas",
+    "magnitude": 3.5,
+    "time": "3/29/2025, 10:05:54 AM",
+    "coordinates": [
+      -94.868,
+      31.591,
+      6.6895
+    ]
+  },
+  {
+    "location": "14 km ENE of Yerington, Nevada",
+    "magnitude": 3.8,
+    "time": "3/29/2025, 9:43:55 AM",
+    "coordinates": [
+      -119.0125,
+      39.0519,
+      7.7
+    ]
+  },
+  {
+    "location": "17 km ESE of Point Possession, Alaska",
+    "magnitude": 2.5,
+    "time": "3/29/2025, 9:33:43 AM",
+    "coordinates": [
+      -150.3931,
+      60.8631,
+      41.4
+    ]
+  },
+  {
+    "location": "Fiji region",
+    "magnitude": 4.4,
+    "time": "3/29/2025, 8:58:04 AM",
+    "coordinates": [
+      -178.1436,
+      -20.3572,
+      543.298
+    ]
+  },
+  {
+    "location": "57 km NW of Toyah, Texas",
+    "magnitude": 2.6,
+    "time": "3/29/2025, 8:54:36 AM",
+    "coordinates": [
+      -104.281,
+      31.619,
+      6.8176
+    ]
+  },
+  {
+    "location": "29 km W of Ashkāsham, Afghanistan",
+    "magnitude": 4.3,
+    "time": "3/29/2025, 6:46:01 AM",
+    "coordinates": [
+      71.2032,
+      36.6825,
+      202.794
+    ]
+  },
+  {
+    "location": "24 km SSE of Jurm, Afghanistan",
+    "magnitude": 4.2,
+    "time": "3/29/2025, 6:21:37 AM",
+    "coordinates": [
+      70.9368,
+      36.6585,
+      226.868
+    ]
+  },
+  {
+    "location": "31 km SSE of Bunkerville, Nevada",
+    "magnitude": 2.5,
+    "time": "3/29/2025, 5:59:47 AM",
+    "coordinates": [
+      -114.0028,
+      36.5086,
+      9.044
+    ]
+  },
+  {
+    "location": "17 km SE of Grace, Idaho",
+    "magnitude": 2.66,
+    "time": "3/29/2025, 5:26:35 AM",
+    "coordinates": [
+      -111.586666666667,
+      42.4591666666667,
+      -1.26
+    ]
+  },
+  {
+    "location": "107 km NW of Yakutat, Alaska",
+    "magnitude": 3.1,
+    "time": "3/29/2025, 5:02:16 AM",
+    "coordinates": [
+      -141.105,
+      60.2183,
+      8.6
+    ]
+  },
+  {
+    "location": "16 km NNE of Amanda Park, Washington",
+    "magnitude": 2.5,
+    "time": "3/29/2025, 3:32:28 AM",
+    "coordinates": [
+      -123.805,
+      47.5895,
+      -0.51
+    ]
+  },
+  {
+    "location": "16 km W of Johannesburg, CA",
+    "magnitude": 2.95,
+    "time": "3/29/2025, 3:21:13 AM",
+    "coordinates": [
+      -117.8115,
+      35.3488333,
+      10.08
+    ]
+  },
+  {
+    "location": "124 km SW of Adak, Alaska",
+    "magnitude": 3.5,
+    "time": "3/29/2025, 12:49:55 AM",
+    "coordinates": [
+      -178.1151,
+      51.2367,
+      25.7
+    ]
+  },
+  {
+    "location": "24 km SW of Coyanosa, Texas",
+    "magnitude": 2.6,
+    "time": "3/28/2025, 11:28:48 PM",
+    "coordinates": [
+      -103.25,
+      31.086,
+      8.0481
+    ]
+  },
+  {
+    "location": "Pagan region, Northern Mariana Islands",
+    "magnitude": 4.3,
+    "time": "3/28/2025, 8:18:50 PM",
+    "coordinates": [
+      145.4507,
+      18.8886,
+      238.223
+    ]
+  },
+  {
+    "location": "34 km WSW of Tatitlek, Alaska",
+    "magnitude": 2.5,
+    "time": "3/28/2025, 7:03:06 PM",
+    "coordinates": [
+      -147.2634,
+      60.7351,
+      126
+    ]
+  },
+  {
+    "location": "55 km NNE of Charlotte Amalie, U.S. Virgin Islands",
+    "magnitude": 3.3,
+    "time": "3/28/2025, 7:01:47 PM",
+    "coordinates": [
+      -64.8216666666667,
+      18.8323333333333,
+      10.23
+    ]
   }
 ]
