@@ -5,7 +5,7 @@ const fs = require('fs');
 // Function to send data to webhook
 async function sendToWebhook(data) {
   try {
-    const response = await fetch('http://localhost:5678/webhook-test/9265066c-5049-4206-880c-4db31939735f', {
+    const response = await fetch('http://localhost:5678/webhook/9265066c-5049-4206-880c-4db31939735f', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -86,5 +86,8 @@ async function fetchEarthquakeData() {
   }
 }
 
-// Call the function to fetch and display data
+// Initial fetch
 fetchEarthquakeData();
+
+// Fetch data every 5 seconds
+setInterval(fetchEarthquakeData, 300000);
